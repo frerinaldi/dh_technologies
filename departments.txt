@@ -1,4 +1,9 @@
 Software department
+to develop the software running on the mainframe
 Electronic department
+to design the printed circuit boards
 Mechanical department
+to design all the mechanical components
 Production department
+to assemble all the mechanical components
+
