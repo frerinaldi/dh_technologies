@@ -1,9 +1,20 @@
 Software department
+Sara
+Francesca
+Andrea
 to develop the software running on the mainframe
 Electronic department
+Ludovica
+Manuele
+Marco
 to design the printed circuit boards
 Mechanical department
+Massimo
+Fabiana
+Arianna
 to design all the mechanical components
 Production department
+Piera
+Debora 
+Adriana
 to assemble all the mechanical components
-
